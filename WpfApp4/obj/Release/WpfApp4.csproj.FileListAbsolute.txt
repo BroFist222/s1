@@ -1,0 +1,16 @@
+C:\Users\kabet\source\repos\WpfApp4\WpfApp4\bin\Release\WpfApp4.exe.config
+C:\Users\kabet\source\repos\WpfApp4\WpfApp4\bin\Release\WpfApp4.exe
+C:\Users\kabet\source\repos\WpfApp4\WpfApp4\bin\Release\WpfApp4.pdb
+C:\Users\kabet\source\repos\WpfApp4\WpfApp4\obj\Release\WpfApp4.csproj.AssemblyReference.cache
+C:\Users\kabet\source\repos\WpfApp4\WpfApp4\obj\Release\MainWindow.g.cs
+C:\Users\kabet\source\repos\WpfApp4\WpfApp4\obj\Release\App.g.cs
+C:\Users\kabet\source\repos\WpfApp4\WpfApp4\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\kabet\source\repos\WpfApp4\WpfApp4\obj\Release\WpfApp4_MarkupCompile.cache
+C:\Users\kabet\source\repos\WpfApp4\WpfApp4\obj\Release\WpfApp4_MarkupCompile.lref
+C:\Users\kabet\source\repos\WpfApp4\WpfApp4\obj\Release\MainWindow.baml
+C:\Users\kabet\source\repos\WpfApp4\WpfApp4\obj\Release\WpfApp4.g.resources
+C:\Users\kabet\source\repos\WpfApp4\WpfApp4\obj\Release\WpfApp4.Properties.Resources.resources
+C:\Users\kabet\source\repos\WpfApp4\WpfApp4\obj\Release\WpfApp4.csproj.GenerateResource.cache
+C:\Users\kabet\source\repos\WpfApp4\WpfApp4\obj\Release\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\kabet\source\repos\WpfApp4\WpfApp4\obj\Release\WpfApp4.exe
+C:\Users\kabet\source\repos\WpfApp4\WpfApp4\obj\Release\WpfApp4.pdb
